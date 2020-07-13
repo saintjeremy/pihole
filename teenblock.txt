@@ -1,0 +1,14 @@
+0.0.0.0 discord.gg
+0.0.0.0 gateway.discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discord.com
+0.0.0.0 sessionserver.mojang.com
+0.0.0.0 minehut.gg
+0.0.0.0 minehut.com
+0.0.0.0 dl.discordapp.net
+0.0.0.0 (\.|^)minehut\.com$
+0.0.0.0 (\.|^)minehut\.gg$
+0.0.0.0 web.facebook.com
+0.0.0.0 (\.|^)discord\.com$
+0.0.0.0 i.instagram.com
+0.0.0.0 (\.|^)telephony\.goog$
